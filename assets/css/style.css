@@ -2519,7 +2519,7 @@ background-color: black;
   font-size: 18px;
 }
 .paybtn:hover {
-  color: black;
+  color: black !important;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
 }
